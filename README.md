@@ -7,7 +7,7 @@ The Objectives:
 Requirements:
 - Web Server (Apache / Nginx)
 - MySQL/MariaDB database
-- PHP 5.2 and above
+- PHP 5.4 and above
 
 Targeted Audience:
 - Civil / Construction development
