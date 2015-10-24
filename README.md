@@ -1,4 +1,4 @@
-# NMS-ezPMS
+# NMS-Milestone
 Project Management &amp; Monitoring System
 
 The Objectives:
